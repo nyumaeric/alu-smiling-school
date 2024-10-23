@@ -1,1 +1,1 @@
-# alu-smiling-school
+# ALU Smiling School
